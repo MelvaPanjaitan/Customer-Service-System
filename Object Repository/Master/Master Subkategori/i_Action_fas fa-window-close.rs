@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Action_fas fa-window-close</name>
+   <tag></tag>
+   <elementGuidId>35bcb288-8a2a-485d-9de8-1fa51502500e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='main_gvDetail_linkcancel_0']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-window-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>05acfe7b-7161-4336-aa2b-5134d6f156be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-window-close</value>
+      <webElementGuid>88397beb-c3cd-42a7-8a7a-484d3fc47f0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_gvDetail_linkcancel_0&quot;)/i[@class=&quot;fas fa-window-close&quot;]</value>
+      <webElementGuid>485e3050-3041-4265-b379-279b65fe08e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='main_gvDetail_linkcancel_0']/i</value>
+      <webElementGuid>c63dff6e-bf2b-4682-9fb0-82e5468e3766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/a[2]/i</value>
+      <webElementGuid>257ebfef-1e35-459c-80a6-f3891c0332da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

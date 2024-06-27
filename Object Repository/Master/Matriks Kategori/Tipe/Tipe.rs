@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tipe</name>
+   <tag></tag>
+   <elementGuidId>059b78a0-42d9-4281-b88f-747f4428be2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='main_ddltipe']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#main_ddltipe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>09200afc-253f-42ef-83ab-ea756a526c82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$main$ddltipe</value>
+      <webElementGuid>4e586c79-b552-492b-994d-31606f3745e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>main_ddltipe</value>
+      <webElementGuid>7f0ce52c-fc40-4b28-886f-16c7431419c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>9d54ee9d-1e63-485c-85e9-077904b7f159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	-- Pilih Salah Satu --
+	Pelayanan
+	Pengaduan
+
+</value>
+      <webElementGuid>9348d75f-6d6f-4dd3-b257-632662db14a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_ddltipe&quot;)</value>
+      <webElementGuid>f12ebf0a-bd80-4dc3-9414-96562b61ede8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='main_ddltipe']</value>
+      <webElementGuid>16696723-fe97-4bde-a22d-1c79ba19be5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form2']/div[3]/div[3]/div/section[2]/div/div[2]/div/div/div/div/select</value>
+      <webElementGuid>5238753b-ee7f-4710-97e8-f08e4bd179fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe'])[1]/following::select[1]</value>
+      <webElementGuid>95b2b1fc-8714-426a-ad23-863960bb2fa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Matriks Kategori'])[2]/following::select[1]</value>
+      <webElementGuid>5629ffd4-d729-48f7-a3b6-8c98f5248ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Tipe'])[1]/preceding::select[1]</value>
+      <webElementGuid>fa92f3b4-8aa9-4908-b955-4e2586b624fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PIC'])[1]/preceding::select[2]</value>
+      <webElementGuid>2952851f-ade4-4ec5-9cf1-49fab83b4761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/select</value>
+      <webElementGuid>7be985fe-febe-4aed-8828-5dad95b0bdf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$main$ddltipe' and @id = 'main_ddltipe' and (text() = '
+	-- Pilih Salah Satu --
+	Pelayanan
+	Pengaduan
+
+' or . = '
+	-- Pilih Salah Satu --
+	Pelayanan
+	Pengaduan
+
+')]</value>
+      <webElementGuid>0cdd6250-7a3d-4929-b5cb-11f7bd2978cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

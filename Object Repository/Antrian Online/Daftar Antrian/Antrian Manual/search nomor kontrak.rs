@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>search nomor kontrak</name>
+   <tag></tag>
+   <elementGuidId>6a4969ec-8f0a-42bc-8462-de21200bf5ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='main_lbsearch']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-search</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//i[@class = 'fas fa-search']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7ce0508b-07d7-4fba-b27e-b8f6a99deee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-search</value>
+      <webElementGuid>800572b3-d039-4ac2-a111-6af17e7a53c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_lbsearch&quot;)/i[@class=&quot;fas fa-search&quot;]</value>
+      <webElementGuid>6daaaf2c-c30b-49cc-bdf3-60c6239b2673</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='main_lbsearch']/i</value>
+      <webElementGuid>63f2c169-7a9f-45d6-a644-9130319aed00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a/i</value>
+      <webElementGuid>37283889-1ce9-4806-bb30-122ef3e30098</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

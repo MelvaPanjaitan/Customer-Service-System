@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>edit</name>
+   <tag></tag>
+   <elementGuidId>23baeb63-0e78-4cc0-ad7e-48db355ff594</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='main_gvDetail_linkEdit_0']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-edit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5a4ca37e-739e-4149-bf05-b56c9a5f5246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-edit</value>
+      <webElementGuid>453de0f6-ba2f-4728-8a26-473e75548a41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_gvDetail_linkEdit_0&quot;)/i[@class=&quot;fas fa-edit&quot;]</value>
+      <webElementGuid>a8263899-d134-44fa-a517-629ed6d12adc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='main_gvDetail_linkEdit_0']/i</value>
+      <webElementGuid>b9a86c3e-98cc-4ada-9b43-f12d8e10e00a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/a/i</value>
+      <webElementGuid>c6ca509c-a6c1-4a66-89ec-9090e2f1c4cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

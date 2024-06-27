@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Master Kategori</name>
+   <tag></tag>
+   <elementGuidId>01d9a963-cd40-4126-a479-eea78c62c479</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='TreeView1t1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#TreeView1t1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c1dff76c-5af9-471d-8fd9-4cf362367851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TreeView1_0 TreeView1_1 TreeView1_7</value>
+      <webElementGuid>4c8497e3-6083-4224-b813-98634b64f05b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Apps/ComplaintSystem/MasterKategori.aspx</value>
+      <webElementGuid>b88c0e8a-7429-4bd5-819c-ad65ef8a4a55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>TreeView1t1</value>
+      <webElementGuid>d706377e-9650-44da-a530-d31a018ac177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Master Kategori</value>
+      <webElementGuid>e2556f85-eddb-447d-b2ae-a13c349536db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TreeView1t1&quot;)</value>
+      <webElementGuid>4ff7bbc9-dc8a-42f8-a75b-bacc1c4f1aed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='TreeView1t1']</value>
+      <webElementGuid>8bf9642e-fed8-4388-bede-438fecbdf91f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TreeView1n0Nodes']/table/tbody/tr/td[3]/a</value>
+      <webElementGuid>34a8f501-76cf-45ce-82c7-d91c9a4481b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Master Kategori')]</value>
+      <webElementGuid>0fba4338-4c94-46cd-89e9-f0687fcabdb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master'])[1]/following::a[1]</value>
+      <webElementGuid>2a532133-0f78-4178-8f2e-6ec9646a8bf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip Navigation Links.'])[1]/following::a[3]</value>
+      <webElementGuid>52f563f9-125e-40c2-8c6a-26843ca7e3e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Sub Kategori'])[1]/preceding::a[1]</value>
+      <webElementGuid>c5653a1c-c5ec-4290-bccd-877e9e515feb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Masalah'])[1]/preceding::a[2]</value>
+      <webElementGuid>e0f1d40e-994f-4bad-a75d-16c245ba5fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Master Kategori']/parent::*</value>
+      <webElementGuid>1d09e3c9-1103-479d-97c6-1b4a2fe30486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Apps/ComplaintSystem/MasterKategori.aspx')]</value>
+      <webElementGuid>9d8bf919-df54-43af-8dbd-015a0da583a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/a</value>
+      <webElementGuid>153b454f-5d83-467a-9381-dde4f434d7b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'Apps/ComplaintSystem/MasterKategori.aspx' and @id = 'TreeView1t1' and (text() = 'Master Kategori' or . = 'Master Kategori')]</value>
+      <webElementGuid>18dca017-774f-41a6-8d4f-a35f8c84e693</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

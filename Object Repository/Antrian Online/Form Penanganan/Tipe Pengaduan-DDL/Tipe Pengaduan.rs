@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tipe Pengaduan</name>
+   <tag></tag>
+   <elementGuidId>a83b3c0d-2614-458b-a638-7e9d7b21e571</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#main_ddlsubtipepengaduan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='main_ddlsubtipepengaduan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d88f4a96-aaa2-4ae7-8fcd-c73707848d48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$main$ddlsubtipepengaduan</value>
+      <webElementGuid>d93616cd-b43c-4be9-88d1-f6b757b74598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:setTimeout('__doPostBack(\'ctl00$main$ddlsubtipepengaduan\',\'\')', 0)</value>
+      <webElementGuid>d64fc33a-fe25-45b7-a758-f883beac0878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>main_ddlsubtipepengaduan</value>
+      <webElementGuid>90b99c35-35b2-47fc-9f10-01cca08c5316</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>a9ae4c2c-c4fc-4a60-8b7c-cd5a8f02d257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	-- Pilih Salah Satu --
+	Inquiry
+	Request
+	Feedback
+	Complaint
+
+</value>
+      <webElementGuid>f47aea9b-9f55-40e4-a53c-e184e90904fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_ddlsubtipepengaduan&quot;)</value>
+      <webElementGuid>06af04cf-8979-41f7-83ff-1063c1f03b40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='main_ddlsubtipepengaduan']</value>
+      <webElementGuid>63e0306a-5340-4b27-bbf3-f331f9ca7de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form2']/div[3]/div[3]/div/section[2]/div/div[2]/div/div[2]/div[5]/div/select</value>
+      <webElementGuid>78fac5b9-6db4-458f-9851-6c24fd911981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe Pengaduan'])[1]/following::select[1]</value>
+      <webElementGuid>849e110f-8424-4704-9551-75f111e82803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sumber Pengaduan'])[1]/following::select[2]</value>
+      <webElementGuid>79b660c9-73f2-4e74-9d42-1c5cd00c70ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tingkatan Pengaduan'])[1]/preceding::select[1]</value>
+      <webElementGuid>cddcc6ae-72e3-414a-86bd-4843ba6a06bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori Pengaduan'])[1]/preceding::select[2]</value>
+      <webElementGuid>50025d72-91b9-4b4f-b466-34004e4ea9ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/select</value>
+      <webElementGuid>7a9a6c1b-f181-4286-aeb8-e56af4b16210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$main$ddlsubtipepengaduan' and @id = 'main_ddlsubtipepengaduan' and (text() = '
+	-- Pilih Salah Satu --
+	Inquiry
+	Request
+	Feedback
+	Complaint
+
+' or . = '
+	-- Pilih Salah Satu --
+	Inquiry
+	Request
+	Feedback
+	Complaint
+
+')]</value>
+      <webElementGuid>331b074b-38d5-4cb4-b201-17c9abc41405</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Master SLA</name>
+   <tag></tag>
+   <elementGuidId>1005a43a-141f-42ff-a20a-f95c21d966df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='TreeView1t6']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#TreeView1t6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>548d7c5b-f30a-48a8-9a8b-bbd4db92441c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TreeView1_0 TreeView1_1 TreeView1_7</value>
+      <webElementGuid>4aa10531-d5bc-4640-88dd-92a1e8f4f80f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Apps/ComplaintSystem/MasterSLA.aspx</value>
+      <webElementGuid>e0b64bff-2d5f-4bc6-bfc5-9ddc1c05f007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>TreeView1t6</value>
+      <webElementGuid>4d79fc25-16e5-4343-be16-1a3da5483e31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Master SLA</value>
+      <webElementGuid>9ace222c-14a1-4984-888e-926a7a03913d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TreeView1t6&quot;)</value>
+      <webElementGuid>c4581a22-5678-4eee-9676-97918ba69c88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='TreeView1t6']</value>
+      <webElementGuid>2ce131c7-3aad-4730-a71a-7d0f402c878a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TreeView1n0Nodes']/table[6]/tbody/tr/td[3]/a</value>
+      <webElementGuid>9abb9fa6-a558-403c-a84d-e38456b6435b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Master SLA')]</value>
+      <webElementGuid>bba3777d-b8e7-4389-b8a8-c58a370010d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Matriks Kategori'])[1]/following::a[1]</value>
+      <webElementGuid>600467d5-a18a-42f8-bec0-b325f8d9688f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Penyelesaian'])[1]/following::a[2]</value>
+      <webElementGuid>99c9c9e7-647c-4e23-ba46-5e92213caa30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Pertanyaan'])[1]/preceding::a[1]</value>
+      <webElementGuid>0fbf672b-86d7-4411-a0d2-98ffd32bccce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Antrian'])[1]/preceding::a[2]</value>
+      <webElementGuid>9d3018c7-1cc9-4b7d-9039-033dc8ec9f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Master SLA']/parent::*</value>
+      <webElementGuid>6ab5b5ac-9711-4a4f-80f0-6d2ff206732d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Apps/ComplaintSystem/MasterSLA.aspx')]</value>
+      <webElementGuid>58d03ed5-68be-4df3-8ce3-6179f94df300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[6]/tbody/tr/td[3]/a</value>
+      <webElementGuid>6e0d5bc0-8b58-4323-9dea-e5bd48b548e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'Apps/ComplaintSystem/MasterSLA.aspx' and @id = 'TreeView1t6' and (text() = 'Master SLA' or . = 'Master SLA')]</value>
+      <webElementGuid>2ea22d86-151b-4956-9349-5d2b30c333cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tangani antrian</name>
+   <tag></tag>
+   <elementGuidId>7306c879-86b3-44f5-9438-4e5bb261b804</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='main_gvDetail_linkEdit_0']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'main_gvDetail_linkEdit_0' and @title = 'Proses Tangani' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$main$gvDetail$ctl02$linkEdit&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#main_gvDetail_linkEdit_0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2b31df38-f143-44e1-a4fc-1b2161490cc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>main_gvDetail_linkEdit_0</value>
+      <webElementGuid>e4a5960c-3135-4ac1-a225-63e968c7aec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Proses Tangani</value>
+      <webElementGuid>1f016876-d7cb-4156-90c5-49dbd8fc7639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm editdata</value>
+      <webElementGuid>ff7a1dac-e647-4d6b-84cc-f9d15e1ee2d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$main$gvDetail$ctl02$linkEdit','')</value>
+      <webElementGuid>67005a77-c6e3-4934-8b72-277a09628e1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_gvDetail_linkEdit_0&quot;)</value>
+      <webElementGuid>f4c4c18d-d485-4ef4-9c83-0010966c759c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='main_gvDetail_linkEdit_0']</value>
+      <webElementGuid>af4daf30-3a67-4a25-82ee-746722c629f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='main_gvDetail']/tbody/tr[2]/td[9]/div/a</value>
+      <webElementGuid>45ebc536-83e3-4b61-8c9f-2dfabbba33f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengambilan BPKB'])[1]/following::a[1]</value>
+      <webElementGuid>d112d8ef-50e5-41f1-8efb-1fb55d99b425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MULIADI'])[2]/following::a[1]</value>
+      <webElementGuid>edaf0949-5914-4786-a2f7-a4405d12861d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C0002'])[1]/preceding::a[1]</value>
+      <webElementGuid>a079bff3-7a5a-4045-ac19-76b5da6d243e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUSTOMER CARE'])[2]/preceding::a[1]</value>
+      <webElementGuid>fd766de5-a43c-4914-b233-d6f1e9e56486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('ctl00$main$gvDetail$ctl02$linkEdit','')&quot;)]</value>
+      <webElementGuid>5e2d7fcb-fbc6-4dfb-bbe4-31c46319cc56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/div/a</value>
+      <webElementGuid>dadffd18-77fe-4f39-93d8-131596b319a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'main_gvDetail_linkEdit_0' and @title = 'Proses Tangani' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$main$gvDetail$ctl02$linkEdit&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;)]</value>
+      <webElementGuid>24b9b735-8955-44b3-810a-514d5c311edb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

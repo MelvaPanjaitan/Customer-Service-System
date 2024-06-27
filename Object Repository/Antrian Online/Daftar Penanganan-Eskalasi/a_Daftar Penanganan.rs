@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Daftar Penanganan</name>
+   <tag></tag>
+   <elementGuidId>df356132-757b-4b9e-8eac-5dbfe39597ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[(text() = 'Daftar Penanganan' or . = 'Daftar Penanganan')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='TreeView1t9']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#TreeView1t9</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4ab61b71-7f18-415c-a09d-0f364827beb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TreeView1_0 TreeView1_1 TreeView1_5 TreeView1_7</value>
+      <webElementGuid>f3e1998d-7944-41ff-91a1-d126d8d8b8d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>DaftarPenanganan.aspx</value>
+      <webElementGuid>21ee275f-95e1-48f6-ab66-a5a343085f44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>TreeView1t9</value>
+      <webElementGuid>e2edcb33-7673-4b83-b18b-707275ffc791</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Penanganan</value>
+      <webElementGuid>f8983f3e-27c0-42f9-8cfb-132fe25ddd29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TreeView1t9&quot;)</value>
+      <webElementGuid>464e8f13-fdfc-45cc-9906-5243a989e158</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='TreeView1t9']</value>
+      <webElementGuid>d1bc0146-5db4-4f21-96dd-a3739cc7aecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TreeView1']/table[3]/tbody/tr/td[2]/a</value>
+      <webElementGuid>fbbfc8ca-7ee7-4cdc-b747-597dccec55b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Daftar Penanganan')]</value>
+      <webElementGuid>2fd13ffd-0a09-4b0f-8fc1-a8992955e874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Antrian'])[1]/following::a[1]</value>
+      <webElementGuid>b1646729-31cb-4f3c-afd9-4636c4b235b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Pertanyaan'])[1]/following::a[2]</value>
+      <webElementGuid>c351fd8e-e11c-4388-a0da-6861409ebb4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report SLA'])[1]/preceding::a[1]</value>
+      <webElementGuid>78b319f8-244f-413e-b888-faa498b2a94f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Penanganan'])[2]/preceding::a[3]</value>
+      <webElementGuid>76ef533b-a7ce-4365-97a2-026be455c0d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Penanganan']/parent::*</value>
+      <webElementGuid>d92e0ece-601e-49ed-85aa-2436625586ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'DaftarPenanganan.aspx')]</value>
+      <webElementGuid>da6762ae-2c8b-49bc-8f7e-845e974f2029</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[3]/tbody/tr/td[2]/a</value>
+      <webElementGuid>67b82393-1041-4723-9176-841b95fa2900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'DaftarPenanganan.aspx' and @id = 'TreeView1t9' and (text() = 'Daftar Penanganan' or . = 'Daftar Penanganan')]</value>
+      <webElementGuid>ce2c41aa-98f6-4008-8bce-1318d8f31728</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

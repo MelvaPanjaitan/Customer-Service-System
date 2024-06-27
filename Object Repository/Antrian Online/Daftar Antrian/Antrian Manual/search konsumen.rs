@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>search konsumen</name>
+   <tag></tag>
+   <elementGuidId>25441be3-c072-4b0b-a0be-b082f4cd16b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='lbcari']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>297d2d6c-5f64-47ce-85cd-b1c6db5914a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-search</value>
+      <webElementGuid>da056c43-2de5-49ec-be06-93710b79873d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lbcari&quot;)/i[@class=&quot;fas fa-search&quot;]</value>
+      <webElementGuid>5d6d544f-b0fd-4e37-b655-940ee708399d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='lbcari']/i</value>
+      <webElementGuid>c3b7f553-afe3-4d00-839a-fb0baebdeac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>b7348a8c-1710-4e4b-afbd-927da33abe93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

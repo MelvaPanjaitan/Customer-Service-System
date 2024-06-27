@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Daftar Antrian</name>
+   <tag></tag>
+   <elementGuidId>47666411-3047-4a15-9252-18466d6b3ca2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='TreeView1t0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#TreeView1t0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ee8ee55c-a3cc-4214-a5c9-33aa62f6d10a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TreeView1_0 TreeView1_1 TreeView1_7</value>
+      <webElementGuid>0397c642-a675-47f7-8738-1cc05ace60fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Apps/ComplaintSystem/DaftarAntrian.aspx</value>
+      <webElementGuid>278bd801-30f7-4063-b54d-d6b2379d580b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>TreeView1t0</value>
+      <webElementGuid>3e17506d-06a7-4090-be07-c1f616b63faa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Antrian</value>
+      <webElementGuid>3241cfc3-9893-4e73-a5db-a0332e7526b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TreeView1t0&quot;)</value>
+      <webElementGuid>bb2eefef-cb05-4b2b-924b-58218d1a59d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='TreeView1t0']</value>
+      <webElementGuid>06087ee5-3507-45b2-b4c9-28090431c96b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TreeView1']/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>9a5af736-43be-40ed-bbea-a8ad6b5d421f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Daftar Antrian')]</value>
+      <webElementGuid>1b16edc2-9e02-43cf-80d2-9d615e2f87aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip Navigation Links.'])[1]/following::a[1]</value>
+      <webElementGuid>aadc3928-c205-4324-b6fa-7b560e7b99c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Penanganan'])[1]/preceding::a[1]</value>
+      <webElementGuid>c8f4deb3-019a-4e60-9272-5c373e37c5e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report SLA'])[1]/preceding::a[2]</value>
+      <webElementGuid>348dc6b1-bc5e-4cfc-81ed-b3c8bd4762e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Antrian']/parent::*</value>
+      <webElementGuid>2595a7ec-b5b6-48f7-b77b-67475aa7167b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Apps/ComplaintSystem/DaftarAntrian.aspx')]</value>
+      <webElementGuid>f9582a39-c257-46e2-b10d-eb79cf63297b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>7f6af204-ada9-470d-a066-1a2daef51f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'Apps/ComplaintSystem/DaftarAntrian.aspx' and @id = 'TreeView1t0' and (text() = 'Daftar Antrian' or . = 'Daftar Antrian')]</value>
+      <webElementGuid>a9b3c279-fc4e-4939-81fe-d0c33e95aa8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

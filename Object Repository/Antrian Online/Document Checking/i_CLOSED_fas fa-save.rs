@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_CLOSED_fas fa-save</name>
+   <tag></tag>
+   <elementGuidId>e2213bef-8fe1-4dc5-bfe8-ec34cabb6ebc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-save</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='main_lbsave']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ef4a5b3d-ec11-4631-bbb3-ea5d7058c11f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-save</value>
+      <webElementGuid>c9c77632-e7a0-465f-bda2-ad8bc48fde76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_lbsave&quot;)/i[@class=&quot;fas fa-save&quot;]</value>
+      <webElementGuid>3443b5f0-f971-44e3-ab14-11f26b225a97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='main_lbsave']/i</value>
+      <webElementGuid>65f0c3f9-6114-4b3e-8c9f-cf1bf58973c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/i</value>
+      <webElementGuid>a792e699-9291-4ab5-a31e-fbcc96061112</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

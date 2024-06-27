@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>check</name>
+   <tag></tag>
+   <elementGuidId>c3f851ff-6746-472f-a1a3-99601f718449</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='main_gvDetail_linkUpdate_0']/i</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;main_gvDetail_linkUpdate_0&quot;)/i[@class=&quot;fas fa-check&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-check</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e0185915-e30d-4f79-b89b-1de8f659d28b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-check</value>
+      <webElementGuid>5098d32c-b5ff-4184-b346-78809d0303fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_gvDetail_linkUpdate_0&quot;)/i[@class=&quot;fas fa-check&quot;]</value>
+      <webElementGuid>e122d9d6-69db-425f-bd86-2238b84a7e9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='main_gvDetail_linkUpdate_0']/i</value>
+      <webElementGuid>06c44719-8391-4125-90dc-a5f2e6f9da83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/div/a/i</value>
+      <webElementGuid>3b51404f-46df-441e-b4e7-0ff476345e00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

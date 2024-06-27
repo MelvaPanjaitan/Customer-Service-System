@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>master menu</name>
+   <tag></tag>
+   <elementGuidId>84815f69-a2d2-462b-8e41-010073ff5c84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='TreeView1n0']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Expand Master&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>41f65531-cbb7-4886-bb5f-b580384e0ae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/NewMysystem/WebResource.axd?d=dYYs3OPM-Igo6QKCaeiW7usuFeLEpCvoqp6WHET0DWj5gtQ7Yd9qQDxPVe1J0XhxGdv1dL-3TflIWKnRup2HYSm_9XmJO1YVhYQGM2nwM-01&amp;t=637823617705833095</value>
+      <webElementGuid>95c7f1c0-13db-46b7-af24-4d4074796400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Expand Master</value>
+      <webElementGuid>a4706b61-4431-4f4d-a0d9-9fb622679eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TreeView1n0&quot;)/img[1]</value>
+      <webElementGuid>2d9a33d6-c800-47f9-b69a-1a94a70d07da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='TreeView1n0']/img</value>
+      <webElementGuid>07fb7a03-c929-4448-a18d-d49e2e9a67b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Expand Master']</value>
+      <webElementGuid>813addd9-807a-49d0-b5ca-027e2d319c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a/img</value>
+      <webElementGuid>0b84c9fb-3184-4e19-a31b-d9d20eef30ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/NewMysystem/WebResource.axd?d=dYYs3OPM-Igo6QKCaeiW7usuFeLEpCvoqp6WHET0DWj5gtQ7Yd9qQDxPVe1J0XhxGdv1dL-3TflIWKnRup2HYSm_9XmJO1YVhYQGM2nwM-01&amp;t=637823617705833095' and @alt = 'Expand Master']</value>
+      <webElementGuid>76f7a84f-6266-4efa-b4de-252aaae9ed64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

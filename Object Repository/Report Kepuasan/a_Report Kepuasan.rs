@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Report Kepuasan</name>
+   <tag></tag>
+   <elementGuidId>826d9f76-7313-49a8-b4a3-4b224add0396</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='TreeView1t3']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#TreeView1t3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9eb3a3c9-24c2-469e-82c6-cab6712810ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TreeView1_0 TreeView1_1 TreeView1_7</value>
+      <webElementGuid>92b1d311-e43a-47da-935e-2bf102a36382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Apps/ComplaintSystem/ReportKepuasan.aspx</value>
+      <webElementGuid>dcac3824-5e70-4b32-ad8f-158c6b52d30b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>TreeView1t3</value>
+      <webElementGuid>a39fed99-e08d-4486-a74f-b133d2a50517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Report Kepuasan</value>
+      <webElementGuid>c3d0b787-aabd-40e2-9e49-ea5aa9368269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TreeView1t3&quot;)</value>
+      <webElementGuid>635cf25f-e0dc-4473-bdd1-b289de236b42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='TreeView1t3']</value>
+      <webElementGuid>24c5deda-0fcd-4e55-8292-47165d80c7de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TreeView1']/table[4]/tbody/tr/td[2]/a</value>
+      <webElementGuid>7f8729a5-ba5e-4b72-8e61-bb598e766e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Report Kepuasan')]</value>
+      <webElementGuid>14852068-8ce9-4496-9efe-103deafae7ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report SLA'])[1]/following::a[1]</value>
+      <webElementGuid>f8225229-b772-44ec-97f3-1779920acee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Penanganan'])[1]/following::a[2]</value>
+      <webElementGuid>9b2201f7-3d72-40b8-b561-378e8eab1bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval List'])[1]/preceding::a[2]</value>
+      <webElementGuid>c6c30b77-1ed8-4b9d-8075-91b1281e09f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Whatsapp Information'])[1]/preceding::a[2]</value>
+      <webElementGuid>824dd68a-ce4f-441b-b140-cf980365f0bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Report Kepuasan']/parent::*</value>
+      <webElementGuid>17266b74-6d45-408b-85c6-0f473973ce8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Apps/ComplaintSystem/ReportKepuasan.aspx')]</value>
+      <webElementGuid>56d7e373-ff04-4a83-b312-1ee8c07eba46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[4]/tbody/tr/td[2]/a</value>
+      <webElementGuid>0c964cec-d11c-43e3-9886-f72173b05a68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'Apps/ComplaintSystem/ReportKepuasan.aspx' and @id = 'TreeView1t3' and (text() = 'Report Kepuasan' or . = 'Report Kepuasan')]</value>
+      <webElementGuid>b9bfbe8b-9ab9-4595-bd2e-4c793c635810</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>download</name>
+   <tag></tag>
+   <elementGuidId>31158ae4-0f1d-4700-9d8d-9009cad8fee7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='main_LinkCetak']/i</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//i[@class = 'fa fa-file-download']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-file-download</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f7cf4505-3f16-4f30-afce-846808bee66b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-file-download</value>
+      <webElementGuid>a9e3f56e-0da4-4515-ab1b-64d8f2b464b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_LinkCetak&quot;)/i[@class=&quot;fa fa-file-download&quot;]</value>
+      <webElementGuid>09e1e01b-5978-45cc-893c-b9f260474075</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='main_LinkCetak']/i</value>
+      <webElementGuid>285776d8-60d1-4404-8b4a-f9beae27ffcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/i</value>
+      <webElementGuid>abdefdb3-a699-4353-aa82-cf3631dd6490</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

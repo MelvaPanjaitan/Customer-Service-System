@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>start antrian</name>
+   <tag></tag>
+   <elementGuidId>f5b7134b-3099-4340-9bdc-c3cc3dcb6bf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='main_lbstart']/i</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;main_lbstart&quot;)/i[@class=&quot;fas fa-play&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-play</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b94ae7e1-8d25-44a5-b9ec-00bec6584bf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-play</value>
+      <webElementGuid>e0840c9b-0010-4121-96b1-38a2eacccf59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_lbstart&quot;)/i[@class=&quot;fas fa-play&quot;]</value>
+      <webElementGuid>06c50e3b-f35b-44fb-8f2a-163bd7c7eba5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='main_lbstart']/i</value>
+      <webElementGuid>aa5d3cab-dba6-42ed-af60-fd097069495e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/i</value>
+      <webElementGuid>b341fb8a-a8df-4150-868c-75806ddf8385</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
